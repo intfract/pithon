@@ -132,3 +132,4 @@ dmypy.json
 .config/
 .replit
 replit.nix
+.upm
